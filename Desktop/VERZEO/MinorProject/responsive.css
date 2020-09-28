@@ -1,0 +1,54 @@
+.navbar {
+  width: 458px;
+}
+.navbar ul {
+  padding-bottom: 10px;
+}
+.navbar ul li {
+  font-size: 1rem;
+  padding: 0px;
+}
+.hero {
+  width: 458px;
+}
+.work h1 {
+  width: 122%;
+}
+.gridContainer {
+  flex-direction: column;
+  width: 117%;
+}
+.gridItem img {
+  width: 100%;
+  height: 182px;
+}
+.box {
+  width: 124%;
+}
+.cert {
+  flex-direction: column;
+  width: 123%;
+}
+.certItem {
+  padding: 1px;
+}
+.test {
+  margin: 3px 19px;
+  padding: 4px 20px;
+  width: 100%;
+}
+.test p {
+  font-size: 18px;
+}
+div.testHeader {
+  width: 122%;
+}
+.container {
+  width: 100%;
+}
+p.shift {
+  font-size: 18px;
+}
+.foot {
+  width: 458px;
+}
