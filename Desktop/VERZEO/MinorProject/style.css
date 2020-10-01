@@ -12,8 +12,8 @@ body {
 }
 
 .logo img {
-  width: 112px;
-  height: 56px;
+  width: 114px;
+  height: 58px;
 }
 .logo a {
   cursor: pointer;
@@ -24,7 +24,7 @@ body {
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  background-color: black;
+  background-color: blue;
   z-index: 1;
   font-family: "Lato", sans-serif;
 }
@@ -33,14 +33,14 @@ body {
   align-items: center;
   list-style: none;
   justify-content: space-between;
-  width: 355px;
+  width: 356px;
   text-align: center;
 }
 
 .navbar ul li a {
   text-decoration: none;
   color: white;
-  width: 15px;
+  width: 16px;
   font-size: 23px;
   margin: 4px;
   padding: 2px 17px;
